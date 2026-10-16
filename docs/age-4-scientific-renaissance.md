@@ -45,3 +45,8 @@ But discovering what is possible does not confer the authority to decide what ou
 In this age, humanity may become less exclusively responsible for producing knowledge while becoming more responsible for interpreting it and choosing how to use it.
 
 **Next:** [Human Reinvention →](human-reinvention.md)
+
+
+---
+
+**Research and context:** [References and Further Reading →](references.md)
