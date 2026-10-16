@@ -1,3 +1,5 @@
+<div class="article-brand"><img src="../assets/rooagi-logo.png" alt="RooAGI logo" width="52"><span>ROOAGI · THE FOUR AGES OF AI</span></div>
+
 # Human Reinvention
 
 *The connecting principle across all four ages*
@@ -45,3 +47,5 @@ Perhaps the greatest consequence of building intelligent machines is that humani
 ---
 
 **Research and context:** [References and Further Reading →](references.md)
+
+<div class="article-copyright">© 2026 RooAGI Corporation. All rights reserved.</div>
