@@ -5,13 +5,15 @@ hide:
 
 <div class="essay-hero" markdown>
 
-<span class="hero-kicker">AN ESSAY ON THE FUTURE OF INTELLIGENCE</span>
+<div class="brand-lockup"><img src="assets/rooagi-logo.png" alt="RooAGI" class="hero-logo"><span class="hero-kicker">ROOAGI PRESENTS · AN ESSAY ON THE FUTURE OF INTELLIGENCE</span></div>
 
 # The Four Ages of AI
 
 <p class="hero-subtitle">From Machine Intelligence to Human Reinvention</p>
 
 <p class="hero-deck">An architectural, economic, and philosophical perspective on how artificial intelligence changes what we can build—and what it means to be human.</p>
+
+<p class="hero-publisher">Published by <strong>RooAGI Corporation</strong></p>
 
 [Read the first age →](age-1-alchemy.md){ .md-button .md-button--primary }
 [Explore the thesis](#four-ages-one-deeper-pattern){ .md-button }
