@@ -24,3 +24,40 @@
 .discovery-cycle{padding:1.2rem;border-radius:10px;border:1px solid #719de2;text-align:center;font-weight:700}
 .md-typeset .md-button{border-radius:7px}
 @media(max-width:620px){.age-grid{grid-template-columns:1fr}.essay-hero{padding:1.6rem}.md-typeset h1{font-size:2rem}.age-card{min-height:0}.pull-quote{padding:1.1rem;font-size:1.1rem}}
+
+
+/* RooAGI brand system */
+:root {
+  --roo-sky: #69a8d4;
+  --roo-blue: #377aa9;
+  --roo-pink: #cd70b8;
+  --roo-sage: #8ba995;
+  --md-primary-fg-color: var(--roo-blue);
+  --md-accent-fg-color: var(--roo-blue);
+}
+[data-md-color-scheme="slate"] {
+  --md-primary-fg-color: #254a72;
+  --md-accent-fg-color: var(--roo-sky);
+}
+.md-header { box-shadow: none; border-bottom: 1px solid rgba(138,170,208,.2); }
+.md-header__button.md-logo img, .md-header__button.md-logo svg {
+  width: 1.7rem; height: 1.7rem; object-fit: contain;
+}
+.brand-lockup { display: flex; align-items: center; gap: 1rem; margin-bottom: 1.1rem; }
+.hero-logo { width: 58px; height: 58px; flex-shrink: 0; object-fit: contain; }
+.hero-kicker { color: var(--roo-sky); }
+.hero-subtitle { color: var(--roo-blue); }
+.hero-publisher { color: var(--md-default-fg-color--light); font-size: .76rem; margin: 0 0 1.4rem !important; }
+.age-one { border-top-color: var(--roo-pink); }
+.age-two { border-top-color: var(--roo-sky); }
+.age-three { border-top-color: var(--roo-blue); }
+.age-four { border-top-color: var(--roo-sage); }
+.pull-quote { border-left-color: var(--roo-sky); }
+.discovery-cycle { border-color: var(--roo-sky); }
+.md-typeset .md-button--primary { background: var(--roo-blue); border-color: var(--roo-blue); color: #fff; }
+.md-typeset .md-button--primary:hover { background: #2e678f; border-color: #2e678f; }
+.md-footer-meta { border-top: 1px solid rgba(140,170,210,.18); }
+@media (max-width:620px) {
+  .brand-lockup { align-items: flex-start; gap: .7rem; }
+  .hero-logo { width: 44px; height: 44px; }
+}
