@@ -1,3 +1,5 @@
+<div class="article-brand"><img src="../assets/rooagi-logo.png" alt="RooAGI logo" width="52"><span>ROOAGI · THE FOUR AGES OF AI</span></div>
+
 # References and Further Reading
 
 This page collects the technical and scientific references behind **The Four Ages of AI: From Machine Intelligence to Human Reinvention**. They are grouped by the ideas discussed in the essay, so readers can trace the evidence and explore the research in greater depth.
@@ -45,3 +47,5 @@ Are important references missing? Do you disagree with how a study has been inte
 Please [open an issue to suggest a source or discuss an interpretation](https://github.com/RooAGI/The-Four-Ages-of-AI-From-Machine-Intelligence-to-Human-Reinvention/issues/new), or [propose an edit through a pull request](https://github.com/RooAGI/The-Four-Ages-of-AI-From-Machine-Intelligence-to-Human-Reinvention/pulls). We welcome primary research, counterarguments and thoughtful perspectives.
 
 *Editorial note: this is a curated reading list, not a systematic literature review. Future predictions and philosophical arguments are explicitly presented as interpretations.*
+
+<div class="article-copyright">© 2026 RooAGI Corporation. All rights reserved.</div>
