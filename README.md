@@ -14,22 +14,17 @@
 
 Read [the overview](docs/index.md) or [references](docs/references.md).
 
-## Run locally
+## Join the Conversation
 
-```bash
-python3 -m pip install "mkdocs-material>=9.5,<10"
-mkdocs serve
-```
+This essay is an invitation to think together about the future of AI—not a final prediction. The four ages are a starting framework, and thoughtful disagreement is welcome.
 
-Then visit http://127.0.0.1:8000/.
+**What would you change?** Is there a missing technological turning point? Will personal agents challenge today's SaaS model? Could AI fundamentally reshape mathematical and physical discovery? How should we preserve human judgment and agency as these systems become more capable?
 
-## Publish
+- **[Share an idea or start a discussion](https://github.com/RooAGI/The-Four-Ages-of-AI-From-Machine-Intelligence-to-Human-Reinvention/issues/new)** — challenge a thesis, suggest a new perspective, or raise a question.
+- **[Explore ongoing conversations](https://github.com/RooAGI/The-Four-Ages-of-AI-From-Machine-Intelligence-to-Human-Reinvention/issues)** — read and respond to others' ideas.
+- **[Propose an edit or additional perspective](https://github.com/RooAGI/The-Four-Ages-of-AI-From-Machine-Intelligence-to-Human-Reinvention/pulls)** — contribute improvements, references, counterarguments, or additional analysis through a pull request.
 
-On a push to `main`, [GitHub Actions](.github/workflows/pages.yml) runs `mkdocs gh-deploy --force` and publishes the generated static site to the `gh-pages` branch.
-
-**One-time setup:** Under **Settings → Pages → Build and deployment**, select **Deploy from a branch**, then choose **gh-pages / (root)**. Ensure workflow permissions allow writing repository contents.
-
-The essay source is written in standard Markdown under `docs/`. The site's visual style is defined in `docs/stylesheets/extra.css`.
+Contributions are especially valuable when they offer clear reasoning, concrete examples, evidence, or constructive counterarguments. Our goal is to deepen the conversation rather than reach premature consensus.
 
 ## Context
 
