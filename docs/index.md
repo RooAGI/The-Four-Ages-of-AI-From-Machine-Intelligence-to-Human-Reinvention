@@ -87,3 +87,10 @@ As machine capability expands, the human questions become more consequential: au
     The four ages overlap. Stage 2 is ongoing, Stage 3 is emerging, and Stage 4 is deliberately speculative. This is a framework for thinking—not a deterministic timeline.
 
 [Begin with the Age of Alchemy →](age-1-alchemy.md){ .md-button .md-button--primary }
+
+
+---
+
+## References and further reading
+
+All supporting research papers, scientific sources and additional reading are collected in one place: **[References and Further Reading →](references.md)**. Suggestions and counterarguments are welcome.
