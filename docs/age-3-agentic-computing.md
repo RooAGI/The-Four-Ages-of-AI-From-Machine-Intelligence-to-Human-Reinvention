@@ -1,3 +1,5 @@
+<div class="article-brand"><img src="../assets/rooagi-logo.png" alt="RooAGI logo" width="52"><span>ROOAGI · THE FOUR AGES OF AI</span></div>
+
 # 03 · The Age of Agentic Computing
 
 *From application-centered software to distributed intelligence, trusted execution and human agency*
@@ -58,3 +60,5 @@ The third age is therefore a challenge to technical infrastructure **and** the i
 ---
 
 **Research and context:** [References and Further Reading →](references.md)
+
+<div class="article-copyright">© 2026 RooAGI Corporation. All rights reserved.</div>
