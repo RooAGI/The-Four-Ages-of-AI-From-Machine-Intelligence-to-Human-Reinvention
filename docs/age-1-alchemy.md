@@ -33,3 +33,8 @@ This era also exposed a conceptual tension that persists. Machines began replica
 What matters is the distinction between reproducing observable behavior and establishing the nature of the intelligence behind that behavior. The first age made imitation feasible; it did not settle the philosophical meaning of understanding.
 
 **Next:** [The Age of Large Language Models →](age-2-llms.md)
+
+
+---
+
+**Research and context:** [References and Further Reading →](references.md)
