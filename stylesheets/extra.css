@@ -67,3 +67,15 @@
 .article-brand {display:flex;align-items:center;gap:.75rem;margin:.5rem 0 1.6rem;padding-bottom:1rem;border-bottom:1px solid var(--md-default-fg-color--lightest);font-size:.74rem;font-weight:800;letter-spacing:.12em;color:var(--roo-blue)}
 .article-brand img {width:52px;height:52px;object-fit:contain;flex-shrink:0}
 .article-copyright {margin:3rem 0 1rem;padding-top:1rem;border-top:1px solid var(--md-default-fg-color--lightest);font-size:.7rem;color:var(--md-default-fg-color--light)}
+
+
+/* Editorial AI-to-SI transition: SI means Super Intelligence */
+.essay-hero .hero-title{font-size:clamp(2.65rem,6vw,4.3rem);line-height:1.08;margin:.45rem 0!important;letter-spacing:-.06em;font-weight:750}
+.title-shift{display:inline-flex;align-items:baseline;gap:.16em;white-space:nowrap}
+.old-term{position:relative;color:var(--md-default-fg-color--light);display:inline-block;opacity:.65}
+.old-term::after{content:"";position:absolute;left:-9%;right:-9%;top:50%;height:.065em;min-height:3px;border-radius:10px;background:var(--roo-pink);transform:rotate(-12deg)}
+.new-term{display:inline-block;color:var(--roo-blue);font-weight:850;text-shadow:0 0 20px rgba(105,168,212,.13)}
+[data-md-color-scheme="slate"] .new-term{color:var(--roo-sky)}
+.hero-shift-note{margin:.2rem 0 .4rem!important;color:var(--md-default-fg-color--light);font-size:.83rem;letter-spacing:.015em}
+.hero-shift-note strong{color:var(--roo-blue)}
+[data-md-color-scheme="slate"] .hero-shift-note strong{color:var(--roo-sky)}
