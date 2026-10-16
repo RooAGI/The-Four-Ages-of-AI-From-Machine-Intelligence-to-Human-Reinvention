@@ -1,3 +1,5 @@
+<div class="article-brand"><img src="../assets/rooagi-logo.png" alt="RooAGI logo" width="52"><span>ROOAGI · THE FOUR AGES OF AI</span></div>
+
 # 01 · The Age of Alchemy
 
 *Architectural experimentation and the search for a reusable foundation*
@@ -38,3 +40,5 @@ What matters is the distinction between reproducing observable behavior and esta
 ---
 
 **Research and context:** [References and Further Reading →](references.md)
+
+<div class="article-copyright">© 2026 RooAGI Corporation. All rights reserved.</div>
