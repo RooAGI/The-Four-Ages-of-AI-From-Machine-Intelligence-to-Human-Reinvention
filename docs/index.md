@@ -13,7 +13,7 @@ hide:
 
 <p class="hero-deck">An architectural, economic, and philosophical perspective on how artificial intelligence changes what we can build—and what it means to be human.</p>
 
-<p class="hero-publisher">Published by <strong>RooAGI Corporation</strong></p>
+<p class="hero-publisher">Published by <strong>RooAGI Corporation</strong> · © 2026 RooAGI Corporation. All rights reserved.</p>
 
 [Read the first age →](age-1-alchemy.md){ .md-button .md-button--primary }
 [Explore the thesis](#four-ages-one-deeper-pattern){ .md-button }
