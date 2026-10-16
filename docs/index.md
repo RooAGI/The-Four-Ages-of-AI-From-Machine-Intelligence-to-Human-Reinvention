@@ -7,7 +7,9 @@ hide:
 
 <div class="brand-lockup"><img src="assets/rooagi-logo.png" alt="RooAGI" class="hero-logo"><span class="hero-kicker">ROOAGI PRESENTS · AN ESSAY ON THE FUTURE OF INTELLIGENCE</span></div>
 
-# The Four Ages of AI
+<h1 class="hero-title">The Four Ages of <span class="title-shift"><span class="old-term">AI</span><span class="new-term">SI</span></span></h1>
+
+<p class="hero-shift-note">From Artificial Intelligence to <strong>Super Intelligence</strong></p>
 
 <p class="hero-subtitle">From Machine Intelligence to Human Reinvention</p>
 
