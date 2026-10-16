@@ -2,8 +2,6 @@
 
 **An essay on AI architecture, parallel computing, agentic systems, scientific discovery and human purpose.**
 
-This repository contains a **Markdown-first website built with MkDocs Material**, following the same documentation approach as [RooAGI/Membrick](https://rooagi.github.io/Membrick/).
-
 **[Read the website](https://rooagi.github.io/The-Four-Ages-of-AI-From-Machine-Intelligence-to-Human-Reinvention/)**
 
 ## Chapters
