@@ -53,3 +53,8 @@ Human dignity is not reducible to labor-market productivity. Yet our institution
 The third age is therefore a challenge to technical infrastructure **and** the institutions governing human agency.
 
 **Next:** [The Age of Scientific Renaissance →](age-4-scientific-renaissance.md)
+
+
+---
+
+**Research and context:** [References and Further Reading →](references.md)
