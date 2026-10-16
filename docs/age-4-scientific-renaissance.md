@@ -1,4 +1,4 @@
-<div class="article-brand"><img src="../assets/rooagi-logo.png" alt="RooAGI logo" width="52"><span>ROOAGI · THE FOUR AGES OF AI</span></div>
+<div class="article-brand"><img src="https://rooagi.github.io/The-Four-Ages-of-AI-From-Machine-Intelligence-to-Human-Reinvention/assets/rooagi-logo.png" alt="RooAGI logo" width="52"><span>ROOAGI · THE FOUR AGES OF AI</span></div>
 
 # 04 · The Age of Scientific Renaissance
 
