@@ -1,3 +1,7 @@
+<p align="center"><img src="docs/assets/rooagi-logo.png" alt="RooAGI logo" width="150"></p>
+
+<p align="center"><strong>Published by RooAGI Corporation</strong></p>
+
 # The Four Ages of AI: From Machine Intelligence to Human Reinvention
 
 **An essay on AI architecture, parallel computing, agentic systems, scientific discovery and human purpose.**
@@ -29,3 +33,7 @@ Contributions are especially valuable when they offer clear reasoning, concrete 
 ## Context
 
 The four ages are an interpretive framework, not an inevitable sequence. Stages overlap; the scientific renaissance is explicitly speculative.
+
+---
+
+<p align="center"><sub>© 2026 RooAGI Corporation. All rights reserved.</sub></p>
