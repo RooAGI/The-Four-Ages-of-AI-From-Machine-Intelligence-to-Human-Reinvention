@@ -1,3 +1,5 @@
+<div class="article-brand"><img src="../assets/rooagi-logo.png" alt="RooAGI logo" width="52"><span>ROOAGI · THE FOUR AGES OF AI</span></div>
+
 # 04 · The Age of Scientific Renaissance
 
 *When machine intelligence may help develop new scientific foundations*
@@ -50,3 +52,5 @@ In this age, humanity may become less exclusively responsible for producing know
 ---
 
 **Research and context:** [References and Further Reading →](references.md)
+
+<div class="article-copyright">© 2026 RooAGI Corporation. All rights reserved.</div>
