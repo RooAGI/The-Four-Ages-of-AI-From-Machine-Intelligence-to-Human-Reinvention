@@ -40,3 +40,8 @@ Perhaps the greatest consequence of building intelligent machines is that humani
 </div>
 
 [Return to the overview](index.md){ .md-button .md-button--primary }
+
+
+---
+
+**Research and context:** [References and Further Reading →](references.md)
