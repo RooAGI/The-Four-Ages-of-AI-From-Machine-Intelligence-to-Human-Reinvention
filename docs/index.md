@@ -5,7 +5,9 @@ hide:
 
 <div class="essay-hero" markdown>
 
-<div class="brand-lockup"><img src="assets/rooagi-logo.png" alt="RooAGI" class="hero-logo"><span class="hero-kicker">ROOAGI PRESENTS · AN ESSAY ON THE FUTURE OF INTELLIGENCE</span></div>
+<div class="brand-lockup"><img src="assets/rooagi-logo.png" alt="RooAGI logo" class="hero-logo"><div class="hero-brand-wordmark"><strong>RooAGI</strong><span>ROOAGI CORPORATION PRESENTS</span></div></div>
+
+<p class="hero-kicker">AN ESSAY ON THE FUTURE OF INTELLIGENCE</p>
 
 <h1 class="hero-title">The Four Ages of <span class="title-shift"><span class="old-term">AI</span><span class="new-term">SI</span></span></h1>
 
@@ -15,7 +17,7 @@ hide:
 
 <p class="hero-deck">An architectural, economic, and philosophical perspective on how artificial intelligence changes what we can build—and what it means to be human.</p>
 
-<p class="hero-publisher">Published by <strong>RooAGI Corporation</strong> · © 2026 RooAGI Corporation. All rights reserved.</p>
+<div class="hero-credit"><strong>© 2026 RooAGI Corporation.</strong><span>All rights reserved.</span></div>
 
 [Read the first age →](age-1-alchemy.md){ .md-button .md-button--primary }
 [Explore the thesis](#four-ages-one-deeper-pattern){ .md-button }
