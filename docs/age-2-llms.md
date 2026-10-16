@@ -1,3 +1,5 @@
+<div class="article-brand"><img src="../assets/rooagi-logo.png" alt="RooAGI logo" width="52"><span>ROOAGI · THE FOUR AGES OF AI</span></div>
+
 # 02 · The Age of Large Language Models
 
 *Transformer scaling, massively parallel computing and the emerging limits of model-centric intelligence*
@@ -64,3 +66,5 @@ Greater model intelligence does not automatically make its human user more disce
 ---
 
 **Research and context:** [References and Further Reading →](references.md)
+
+<div class="article-copyright">© 2026 RooAGI Corporation. All rights reserved.</div>
