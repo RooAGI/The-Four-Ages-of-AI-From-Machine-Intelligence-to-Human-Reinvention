@@ -59,3 +59,8 @@ A world of fluent machine-generated writing raises questions of authorship and t
 Greater model intelligence does not automatically make its human user more discerning.
 
 **Next:** [The Age of Agentic Computing →](age-3-agentic-computing.md)
+
+
+---
+
+**Research and context:** [References and Further Reading →](references.md)
